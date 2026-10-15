@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=55&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Halima+Sabri" alt="Halima Sabri" />
 </a>
   
-### `Business Intelligence & Data Science Student`
+### `Artificial intelligence engineering Student`
  
 *Turning raw data into insight — building AI-powered systems and intelligent dashboards that drive real decisions    .*
 </div>
@@ -13,7 +13,7 @@
  
 ## About me
  
-Final-year **Business Intelligence and Data Science** student at **EST Nador**, soon to graduate with a strong foundation in data analytics, machine learning and full-stack development.
+Fisrt-year **Artificial intelligence engineering** student at **ENIAD Berkane**, soon to graduate with a strong foundation in data analytics, machine learning and full-stack development.
  
 I completed my internship where I built an **intelligence dashboard** with an **AI-based success predictor** — two systems designed to surface meaningful insights from complex academic and operational data.
  
